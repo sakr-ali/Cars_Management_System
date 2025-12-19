@@ -1,12 +1,16 @@
 # Cars_Management_System
 project for managing a car company
+# Visual Programming with SQL Server
 
-اسم المشروع:
-برمجة مرئية باستخدام C# و SQL Server
+مشروع برمجة مرئية (Windows Forms) باستخدام C#  
+وقاعدة بيانات SQL Server.
 
-طريقة التشغيل:
+## المتطلبات
+- Visual Studio
+- SQL Server + SSMS
+
+## طريقة التشغيل
 1- افتح SQL Server
 2- نفذ ملف database.sql
 3- افتح المشروع عبر Visual Studio
 4- شغّل البرنامج
-
